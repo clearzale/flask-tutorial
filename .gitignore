@@ -3,3 +3,12 @@ venv/
 .idea/
 __pycache__/
 *.pyc
+
+instance/
+
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
